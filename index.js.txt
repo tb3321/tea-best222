@@ -1,0 +1,11 @@
+// Welcome to our project!
+
+// Here is a simple index.js file to help you get started:
+
+console.log("Thank you for your interest in our project!");
+
+// Add your code here to start working on the project
+
+// Don't forget to refer to the README file for more information
+
+// Happy coding!
